@@ -63,7 +63,7 @@ namespace ReadingFile{
 
             records.push_back(data);
 
-            cout << "ID: " << data.ui32SylID << " Word: " << data.szText << endl;
+            //cout << "ID: " << data.ui32SylID << " Word: " << data.szText << endl;
         }
 
         return records;
